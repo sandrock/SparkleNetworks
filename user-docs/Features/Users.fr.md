@@ -10,6 +10,8 @@ Lorsque vous créez un compte utilisateur sur le réseau, vous avez automatiquem
 
 De nombreuses autres informations peuvent être saisies, elles permettent aux membres du réseau de découvrir qui vous êtes ; elles vous permettent donc de découvrir qui sont les autres membres.
 
+[![Video : optimiser son profil](http://i.ytimg.com/vi/DXplmS667iQ/mqdefault.jpg)](http://www.youtube.com/watch?v=DXplmS667iQ)
+
 Visibilité et confidentialité du profil
 -------------------------------
 
@@ -30,6 +32,6 @@ Votre profil fait apparaitre vos activités sur le réseau.
 Entrer en contact
 -------------------------------
 
-Lorsque vous visualisez le profil d'un autre membre, vous avez la possibiliter de l'ajouter en contact (boutton "Ajouter). Cela vous permet de créer une liste de personnes proches qui vous permettra des interactions avancées. Par exemple : "inviter tous mes contacts à cet événement".
+Lorsque vous visualisez le profil d'un autre membre, vous avez la possibiliter de l'ajouter en contact (boutton "Ajouter"). Cela vous permet de créer une liste de personnes proches qui vous permettra des interactions avancées. Par exemple : "inviter tous mes contacts à cet événement".
 
 
